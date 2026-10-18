@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "dilemma": "You're a teacher who discovers that your school's standardized test results are being manipulated by administrators to secure funding. Reporting it will likely shut down the school, leaving 800 students without education options in the area. Do you report the fraud?"
+  },
+  {
+    "id": 2,
+    "dilemma": "You're a park ranger who must evacuate people from a wildfire zone. You can take either the route that saves 15 hikers quickly, or the route that saves 10 hikers but also allows you to rescue rare research data that could cure a disease. Which route do you take?"
+  },
+  {
+    "id": 3,
+    "dilemma": "You're a lawyer who discovers your client is guilty of a serious crime, but they've also provided you information that will prevent a future terrorist attack. Attorney-client privilege forbids you from sharing either piece of information. Do you break privilege?"
+  },
+  {
+    "id": 4,
+    "dilemma": "You're a journalist who has evidence that will expose a corrupt politician, but your source will be killed if you publish. The politician's corruption is causing measurable harm to thousands of people. Do you publish?"
+  },
+  {
+    "id": 5,
+    "dilemma": "You're a zookeeper and a venomous snake has escaped near a children's area. You can either evacuate the children, causing panic and likely injuries in the chaos, or quietly search for the snake while keeping children in place, risking potential bites. What do you do?"
+  },
+  {
+    "id": 6,
+    "dilemma": "You're a social media moderator who discovers a post containing false information that makes people feel hopeful about a terminal illness treatment. Removing it follows truth guidelines but will devastate thousands of desperate families. Do you remove it?"
+  },
+  {
+    "id": 7,
+    "dilemma": "You're a ship captain in a storm. You can save your cargo of food aid meant for 5,000 starving people, or save your 20 crew members. The weight means you cannot save both. What do you choose?"
+  },
+  {
+    "id": 8,
+    "dilemma": "You're a therapist whose patient confesses they're planning to financially ruin their abusive ex-partner through legal but ethically questionable means. The ex-partner genuinely harmed them, but their plan will also hurt the ex's innocent children. Do you intervene?"
+  },
+  {
+    "id": 9,
+    "dilemma": "You're a wildlife conservationist who can save either a nearly extinct species of insect that's crucial to the ecosystem, or a pack of wolves that are beloved by the community but not endangered. You only have resources for one. Which do you save?"
+  },
+  {
+    "id": 10,
+    "dilemma": "You're a food safety inspector who discovers a restaurant with minor violations that technically require closure, but it's the only affordable food source for a poor neighborhood and the owner will lose everything. Do you enforce the closure?"
+  },
+  {
+    "id": 11,
+    "dilemma": "You're a software engineer who can patch a security vulnerability in your company's product, but doing so will break functionality that thousands of hospitals currently depend on for patient care. Do you deploy the patch immediately?"
+  },
+  {
+    "id": 12,
+    "dilemma": "You're a museum curator who discovers a priceless artifact in your collection was stolen from a war-torn country. Returning it is ethical but will likely result in its destruction. Keeping it preserves it for humanity but perpetuates theft. What do you do?"
+  },
+  {
+    "id": 13,
+    "dilemma": "You're a veterinarian with one dose of rabies vaccine. A beloved family pet was exposed, and a stray dog that bit a child was also exposed. Both will die painfully without treatment, but only one can be saved. Which do you treat?"
+  },
+  {
+    "id": 14,
+    "dilemma": "You're a construction foreman who discovers your building project violates environmental regulations, but halting it means 200 workers lose their jobs in an economically depressed town. Continuing means destroying a wetland habitat. Do you halt construction?"
+  },
+  {
+    "id": 15,
+    "dilemma": "You're a border agent who encounters a family seeking asylum. They don't meet legal criteria, but sending them back will likely result in their persecution. Following protocol means their deportation. Do you process them by the book?"
+  },
+  {
+    "id": 16,
+    "dilemma": "You're a spacecraft commander with limited oxygen. You can either distribute it equally and everyone dies in 6 hours, or allocate it all to the crew member who can pilot the ship to safety, letting others die sooner. What do you decide?"
+  },
+  {
+    "id": 17,
+    "dilemma": "You're a priest who learns in confession that a parishioner committed a murder 20 years ago. They've reformed completely and now run a charity helping hundreds of at-risk youth. The victim's family still seeks closure. Do you maintain the seal of confession?"
+  },
+  {
+    "id": 18,
+    "dilemma": "You're a mayor deciding whether to approve a factory that will create 1,000 jobs but increase local cancer rates by an estimated 2% over 20 years. The town desperately needs economic development. Do you approve it?"
+  },
+  {
+    "id": 19,
+    "dilemma": "You're a hacker who discovers a corporation is secretly collecting children's data illegally. Exposing them requires you to reveal you illegally accessed their systems, which will land you in prison. Do you expose them?"
+  },
+  {
+    "id": 20,
+    "dilemma": "You're a paramedic arriving at an accident scene with two critically injured patients. One is young and healthy with a 50% survival chance. The other is elderly with a 30% survival chance but is a renowned scientist close to a breakthrough. You can only treat one. Who do you choose?"
+  }
+]
